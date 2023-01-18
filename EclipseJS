@@ -1,0 +1,41 @@
+public class Variaveis {
+	
+	public static void main(String[] args) {
+		
+		
+		int idade = 23;
+		double altura = 1.86; 
+		
+		String nome = "Brendo Kaique"+".";
+		
+		System.out.println("Meu nome é "+nome);
+		
+		System.out.println("tenho " +idade +" anos"+".");
+		System.out.println("e tenho " +altura +" de altura"+".");
+
+Int = Tipo de váriavel.
+numeroInteiro = nome da váriavel.
+false = valor da variável.
+
+
+
+numeroInteiro = 10;
+		
+		System.out.println(numeroInteiro);
+		
+		numeroInteiro = 20;
+		
+		//System.out.println(numeroInteiro); obs: "//" Vira um comentário e não interfere na linha de código.
+		
+		numeroInteiro = 30;
+		
+		//System.out.println(numeroInteiro);
+
+
+int idadePermitida;
+		int minhaidade;
+		if (minhaidade >=idadePermitida) {
+			System.out.println("voce pode tirar a sua habilitação");
+		}else {
+	System.out.println("você não pode tirar a sua habilitação");
+	}
